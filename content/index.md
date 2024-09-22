@@ -1,8 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Jojonosaurus!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-Custom Text
+This is my personal blog, where I will put Jetpack Compose and related programming interests.
